@@ -38,7 +38,7 @@ The recommendation system is built using the Spotify Web API with OAuth 2.0 clie
    pip install requests
    ```
 
-2. Create a `.env` file in the './Music_recommendation_System' directory. In this file, add the following code:
+2. Create a `.env` file in the './Music Recommendation System' directory. In this file, add the following code:
    ```plaintext
    CLIENT_ID = "<your_client_id>"
    CLIENT_SECRET = "<your_client_secret>"
