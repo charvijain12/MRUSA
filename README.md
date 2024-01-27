@@ -1,6 +1,6 @@
 # MRUSA - Sentiment Driven Music Recommender 🎵📊 
 
-This deep learning project consists of two main parts: Sentiment Analysis and Recommendation System. The Sentiment Analysis part involves creating a sentiment analysis model, and the Recommendation System is built using the Spotify Web API.
+This deep learning project consists of two main parts: Sentiment Analysis and Recommendation System. The Sentiment Analysis part involves creating a sentiment analysis model based on human emotions and the Recommendation System is built using the Spotify Web API that recommends songs based on the current sentiment.
 
 ## 1. Sentiment Analysis 📝
 
